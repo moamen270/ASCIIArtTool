@@ -1,0 +1,32 @@
+C:\Users\moamen\source\repos\ASCII Art\bin\Debug\net5.0\ASCII Art.exe
+C:\Users\moamen\source\repos\ASCII Art\bin\Debug\net5.0\ASCII Art.deps.json
+C:\Users\moamen\source\repos\ASCII Art\bin\Debug\net5.0\ASCII Art.runtimeconfig.json
+C:\Users\moamen\source\repos\ASCII Art\bin\Debug\net5.0\ASCII Art.runtimeconfig.dev.json
+C:\Users\moamen\source\repos\ASCII Art\bin\Debug\net5.0\ASCII Art.dll
+C:\Users\moamen\source\repos\ASCII Art\bin\Debug\net5.0\ref\ASCII Art.dll
+C:\Users\moamen\source\repos\ASCII Art\bin\Debug\net5.0\ASCII Art.pdb
+C:\Users\moamen\source\repos\ASCII Art\obj\Debug\net5.0\ASCII Art.csproj.AssemblyReference.cache
+C:\Users\moamen\source\repos\ASCII Art\obj\Debug\net5.0\ASCII Art.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moamen\source\repos\ASCII Art\obj\Debug\net5.0\ASCII Art.AssemblyInfoInputs.cache
+C:\Users\moamen\source\repos\ASCII Art\obj\Debug\net5.0\ASCII Art.AssemblyInfo.cs
+C:\Users\moamen\source\repos\ASCII Art\obj\Debug\net5.0\ASCII Art.csproj.CoreCompileInputs.cache
+C:\Users\moamen\source\repos\ASCII Art\obj\Debug\net5.0\ASCII Art.dll
+C:\Users\moamen\source\repos\ASCII Art\obj\Debug\net5.0\ref\ASCII Art.dll
+C:\Users\moamen\source\repos\ASCII Art\obj\Debug\net5.0\ASCII Art.pdb
+C:\Users\moamen\source\repos\ASCII Art\obj\Debug\net5.0\ASCII Art.genruntimeconfig.cache
+C:\Users\moamen\source\repos\ASCIIArtTool\bin\Debug\net5.0\ASCII Art.exe
+C:\Users\moamen\source\repos\ASCIIArtTool\bin\Debug\net5.0\ASCII Art.deps.json
+C:\Users\moamen\source\repos\ASCIIArtTool\bin\Debug\net5.0\ASCII Art.runtimeconfig.json
+C:\Users\moamen\source\repos\ASCIIArtTool\bin\Debug\net5.0\ASCII Art.runtimeconfig.dev.json
+C:\Users\moamen\source\repos\ASCIIArtTool\bin\Debug\net5.0\ASCII Art.dll
+C:\Users\moamen\source\repos\ASCIIArtTool\bin\Debug\net5.0\ref\ASCII Art.dll
+C:\Users\moamen\source\repos\ASCIIArtTool\bin\Debug\net5.0\ASCII Art.pdb
+C:\Users\moamen\source\repos\ASCIIArtTool\obj\Debug\net5.0\ASCII Art.csproj.AssemblyReference.cache
+C:\Users\moamen\source\repos\ASCIIArtTool\obj\Debug\net5.0\ASCII Art.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moamen\source\repos\ASCIIArtTool\obj\Debug\net5.0\ASCII Art.AssemblyInfoInputs.cache
+C:\Users\moamen\source\repos\ASCIIArtTool\obj\Debug\net5.0\ASCII Art.AssemblyInfo.cs
+C:\Users\moamen\source\repos\ASCIIArtTool\obj\Debug\net5.0\ASCII Art.csproj.CoreCompileInputs.cache
+C:\Users\moamen\source\repos\ASCIIArtTool\obj\Debug\net5.0\ASCII Art.dll
+C:\Users\moamen\source\repos\ASCIIArtTool\obj\Debug\net5.0\ref\ASCII Art.dll
+C:\Users\moamen\source\repos\ASCIIArtTool\obj\Debug\net5.0\ASCII Art.pdb
+C:\Users\moamen\source\repos\ASCIIArtTool\obj\Debug\net5.0\ASCII Art.genruntimeconfig.cache
