@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ASCII_Art
 {
@@ -15,7 +13,7 @@ namespace ASCII_Art
                 int counter = 0;
                 foreach (var letter in text)
                 {
-                    if (!char.IsLetter(letter))
+                    if (char.IsDigit(letter) )
                         throw new Exception("Drow Letters only , for now ");
                     switch (char.ToLower(letter))
                     {
@@ -253,7 +251,16 @@ namespace ASCII_Art
                             z[4] = "..######..";
                             Letters.Add(counter, z);
                             break;
-                    }
+                        case ' ':
+                        string[] space = new string[5];
+                        space[0] = ".....";
+                        space[1] = ".....";
+                        space[2] = ".....";
+                        space[3] = ".....";
+                        space[4] = ".....";
+                        Letters.Add(counter, space);
+                        break;
+                }
                     counter++;
                 }
                 Console.WriteLine("\n\n");

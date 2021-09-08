@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moamen\\source\\repos\\ASCIIArtTool\\ASCII Art.csproj": {}
+    "C:\\Users\\mmoam\\Downloads\\My-Github\\ASCIIArtTool\\ASCIIArtTool\\ASCII Art.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moamen\\source\\repos\\ASCIIArtTool\\ASCII Art.csproj": {
+    "C:\\Users\\mmoam\\Downloads\\My-Github\\ASCIIArtTool\\ASCIIArtTool\\ASCII Art.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moamen\\source\\repos\\ASCIIArtTool\\ASCII Art.csproj",
+        "projectUniqueName": "C:\\Users\\mmoam\\Downloads\\My-Github\\ASCIIArtTool\\ASCIIArtTool\\ASCII Art.csproj",
         "projectName": "ASCII Art",
-        "projectPath": "C:\\Users\\moamen\\source\\repos\\ASCIIArtTool\\ASCII Art.csproj",
-        "packagesPath": "C:\\Users\\moamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moamen\\source\\repos\\ASCIIArtTool\\obj\\",
+        "projectPath": "C:\\Users\\mmoam\\Downloads\\My-Github\\ASCIIArtTool\\ASCIIArtTool\\ASCII Art.csproj",
+        "packagesPath": "C:\\Users\\mmoam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmoam\\Downloads\\My-Github\\ASCIIArtTool\\ASCIIArtTool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\moamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mmoam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
